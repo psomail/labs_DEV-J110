@@ -15,7 +15,7 @@ public class Clinica {
         
         doctorTerapevt.diagnostic(cat);
         doctorTerapevt.diagnostic(beaver);
-                   
+        System.out.println("test");
         
     }
     
